@@ -1,0 +1,6 @@
+H:\C#\Console\WinProcessTracking\WinProcessTracking\bin\Debug\WinProcessTracking.exe.config
+H:\C#\Console\WinProcessTracking\WinProcessTracking\bin\Debug\WinProcessTracking.exe
+H:\C#\Console\WinProcessTracking\WinProcessTracking\bin\Debug\WinProcessTracking.pdb
+H:\C#\Console\WinProcessTracking\WinProcessTracking\obj\Debug\WinProcessTracking.csprojResolveAssemblyReference.cache
+H:\C#\Console\WinProcessTracking\WinProcessTracking\obj\Debug\WinProcessTracking.exe
+H:\C#\Console\WinProcessTracking\WinProcessTracking\obj\Debug\WinProcessTracking.pdb
